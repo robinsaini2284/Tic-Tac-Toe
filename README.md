@@ -1,6 +1,7 @@
 This is a simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game is fully responsive, allowing players to enjoy it on desktops, tablets, and mobile devices.
 
 Features:
+
 ✅ Two-Player Mode – Play against a friend on the same device.
 
 ✅ Responsive Design – Adapts to different screen sizes for a smooth experience.
